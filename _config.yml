@@ -13,6 +13,7 @@ collections:
     output: true
     Image:
       image: "/uploads/cooking.svg"
+    menu Item: 1
 defaults:
 - scope:
     path: ''
