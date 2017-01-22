@@ -5,6 +5,7 @@ categories:
 - cat1
 tags:
 - tag1
+layout: post
 ---
 
 test doc
