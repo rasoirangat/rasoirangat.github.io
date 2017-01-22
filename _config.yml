@@ -23,4 +23,12 @@ defaults:
     type: pages
   values:
     layout: page
+email: your-email@domain.com
+description: From women to women
+baseurl: "/rasoirangat"
+url: http://www.rasoirangat.in
+copyright: "&copy; 2016-2017 Rasoirangat Theme"
+markdown: kramdown
+material_theme: blue-deep_orange
+google-analytics-ua: 0
 permalink: pretty
