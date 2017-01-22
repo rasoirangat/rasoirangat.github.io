@@ -1,4 +1,10 @@
 ---
+title: Rasoirangat
+date: 2017-01-23 00:11:00 +05:30
+---
+
+---
+layout: default
 ---
 
 <div class="mdl-grid">
@@ -20,12 +26,3 @@
   </div>
   {% endfor %}
 </div>
-=======
-title: Rasoirangat
-date: 2017-01-22 22:17:00 +05:30
-author:
-- smit shah
----
-
-Coming Soon.....
->>>>>>> e42d300a1c57bd4eaebb92448dacb189b53139ed
