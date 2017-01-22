@@ -23,9 +23,9 @@ defaults:
     type: pages
   values:
     layout: page
-email: your-email@domain.com
-description: From women to women
-baseurl: "/rasoirangat"
+email: recipie@rasoirangat.in
+From women to women: From women to women
+baseurl: 
 url: http://www.rasoirangat.in
 copyright: "&copy; 2016-2017 Rasoirangat Theme"
 markdown: kramdown
