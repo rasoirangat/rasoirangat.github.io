@@ -1,12 +1,9 @@
 ---
-title: Rasoirangat
+title: Rasoirangat | રસોઈરંગત
 timezone: Asia/Colombo
 collections:
   posts:
     title: Posts
-    output: true
-  rasoirangat:
-    title: Rasoirangat
     output: true
   uploads:
     title: Uploads
