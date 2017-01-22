@@ -1,0 +1,18 @@
+# Site settings
+title: Rasoirangat  Theme
+email: your-email@domain.com
+description: From women to women
+baseurl: "/rasoirangat" # the subpath of your site, e.g. /blog/
+url: "http://www.rasoirangat.in" # the base hostname & protocol for your site
+copyright: '&copy; 2016-2017 Rasoirangat Theme'
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: blue-deep_orange
+
+# Google Analytics account ID (UA-XXXXXXXX-X)
+
+google-analytics-ua: 0
+#UA-84475574-1
