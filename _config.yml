@@ -1,5 +1,3 @@
-# Site settings
-title: Rasoirangat  Theme
 email: your-email@domain.com
 description: From women to women
 baseurl: "/rasoirangat" # the subpath of your site, e.g. /blog/
@@ -16,3 +14,28 @@ material_theme: blue-deep_orange
 
 google-analytics-ua: 0
 #UA-84475574-1
+title: Rasoirangat
+timezone: Asia/Colombo
+collections:
+  posts:
+    title: Posts
+    output: true
+  rasoirangat:
+    title: Rasoirangat
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
