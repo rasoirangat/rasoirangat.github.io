@@ -11,6 +11,8 @@ collections:
   test:
     title: test
     output: true
+    Image:
+      image: "/uploads/cooking.svg"
 defaults:
 - scope:
     path: ''
